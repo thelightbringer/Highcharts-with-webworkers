@@ -17,5 +17,5 @@ npm start
 
 
 <p align="center">
-  <img src="./src/img/charts.jpg" alt="Visible charts based upon configuration" width="738">
+  ![Visible charts based upon configuration](https://github.com/thelightbringer/Highcharts-with-webworkers/blob/main/src/img/charts.JPG?raw=true)
 </p>
