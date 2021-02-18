@@ -12,10 +12,10 @@ npm install
 npm start
 ```
 <p align="center">
-  <img src="https://github.com/thelightbringer/Highcharts-with-webworkers/blob/main/src/img/config-menu.jpg" alt="Main configuration box" width="738">
+  <img src="./src/img/charts.JPG" alt="Test coverage of app by Abhijit Misra" width="738">
 </p>
 
 
 <p align="center">
-  ![Visible charts based upon configuration](https://github.com/thelightbringer/Highcharts-with-webworkers/blob/main/src/img/charts.JPG?raw=true)
+  
 </p>
