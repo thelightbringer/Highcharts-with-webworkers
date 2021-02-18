@@ -11,11 +11,12 @@ npm install
 ```
 npm start
 ```
+## Configuration UI
 <p align="center">
-  <img src="./src/img/charts.JPG" alt="Test coverage of app by Abhijit Misra" width="738">
+  <img src="./src/img/config-menu.JPG" alt="Test coverage of app by Abhijit Misra" width="738">
 </p>
 
-
+## Charts 
 <p align="center">
-  
+  <img src="./src/img/charts.JPG" alt="Test coverage of app by Abhijit Misra" width="738">
 </p>
