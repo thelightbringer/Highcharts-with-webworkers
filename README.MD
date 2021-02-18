@@ -12,7 +12,7 @@ npm install
 npm start
 ```
 <p align="center">
-  <img src="./src/img/config-menu.jpg" alt="Main configuration box" width="738">
+  <img src="https://github.com/thelightbringer/Highcharts-with-webworkers/blob/main/src/img/config-menu.jpg" alt="Main configuration box" width="738">
 </p>
 
 
