@@ -1,0 +1,27 @@
+#container  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #f3f3f3;
+    margin: 2em;
+}
+
+#container > * {
+    -webkit-box-shadow: 1px 1px 2px 1px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow: 1px 1px 2px 1px #ccc;  /* Firefox 3.5 - 3.6 */
+    box-shadow: 1px 1px 2px 1px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    padding: 1em;
+    margin: 1em;
+    background-color: #dfdfdf;
+}
+
+#main-head {
+    text-align: center;
+    margin: 0 30%;
+    padding: 1em 0 2em;
+    box-shadow: 1px 1px 10px 1px #ccc;
+}
+
+label > input {
+    margin: 0em 1em;
+}
