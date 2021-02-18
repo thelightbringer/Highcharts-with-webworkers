@@ -12,10 +12,10 @@ npm install
 npm start
 ```
 <p align="center">
-  <img src="./img/config-menu.jpg" alt="Main configuration box" width="738">
+  <img src="./src/img/config-menu.jpg" alt="Main configuration box" width="738">
 </p>
 
 
 <p align="center">
-  <img src="./img/charts.jpg" alt="Visible charts based upon configuration" width="738">
+  <img src="./src/img/charts.jpg" alt="Visible charts based upon configuration" width="738">
 </p>
