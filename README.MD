@@ -4,11 +4,11 @@
 
 To Run the examples, I serve them with http-server.
 
-*Install dependencies.
+ ## Install dependencies.
 ```bash
 npm install
 ```
-*Run the code server as:
+## Run the code server as:
 ```
 npm start
 ```
