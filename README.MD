@@ -1,5 +1,5 @@
 # Web Workers with highchart
-## Number of highcharts configurable with number of web workers
+## Á simple demo of spawning a new web worker with each highchart. 
 
 To Run the examples, I serve them with http-server.
 
